@@ -1,0 +1,13 @@
+.content__bg_fixie {
+    width: 50%;
+    background-image: url(fixie.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.content__bg_cruiser {
+    width: 50%;
+    background-image: url(cruiser.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
